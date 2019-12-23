@@ -13,7 +13,7 @@
 
 1、基于层次：Agenes
 
-2、基于密度：K-mean、 K-mediods
+2、基于密度：K-mean、 K-mediods、DB
 
 三、分类
 
