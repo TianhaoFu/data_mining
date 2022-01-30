@@ -1,31 +1,31 @@
 # data_mining
- 一些数据挖掘算法的具体实现
+Implementation of some data mining algorithms
  
-主要包括：
+Mainly includes：
 
-### 一、基础的数据分析
+### I. Basic data analysis
 
-1、计算均值等数据度量
+1. Calculation of data metrics such as mean value
 
-2、数据的箱图、直方图、散点图等可视化方法
+2. visualization methods such as box plots, histograms and scatter plots of data
 
-### 二、聚类
+### II. Clustering
 
-1、基于层次：Agenes
+1.Based on hierarchy: Agenes
 
-2、基于密度：K-mean、 K-mediods、DB
+2. based on density: K-mean, K-mediods, DB
 
-3、高级聚类：高斯混合模型聚类
+3. advanced clustering: Gaussian mixture model clustering
 
-### 三、分类
+### III. Classification
 
-1、SVM
+1. SVM
 
-2、Decision Tree
+2. Decision Tree
 
-### 四、基于KDD-CUP99的数据集的算法实战
+### IV. the algorithm based on the KDD-CUP99 dataset in practice
 
-综合利用decision tree 、bagging 、random forest 、cnn及对应高级改进算法对网络攻击进行分类
+Comprehensive use of decision tree, bagging, random forest, cnn and the corresponding advanced improvement algorithm to classify network attacks
 
 
 
