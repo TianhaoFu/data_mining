@@ -11,7 +11,7 @@ Mainly includes：
 
 ### II. Clustering
 
-1.Based on hierarchy: Agenes
+1. Based on hierarchy: Agenes
 
 2. based on density: K-mean, K-mediods, DB
 
